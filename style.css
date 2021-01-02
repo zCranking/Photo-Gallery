@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.grid {
+    margin-top: 50px;
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    transition: transform.2s;
+}
+.grid:hover{
+    transform: scale(1.2);
+}
+.carousel_photo {
+
+}
+.p {
+
+}
+#grid_gallery {
+    background-color: cornflowerblue;
+}
+.container {
+    background-color: cornflowerblue;
+}
+span {
+    margin-top: 300px;
+}
+.line {
+    border-top: 20px;
+    border-radius: 5px;
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+}
+#myCarousel {
+    background-color: cornflowerblue;
+}
